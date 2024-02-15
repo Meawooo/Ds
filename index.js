@@ -13,9 +13,9 @@ bot.on("ready", () => {
 
   // Set streaming status
   bot.editStatus("streaming", {
-    name: "Streaming Game",
+    name: "Streaming Nova-C",
     type: 1, // 1 indicates streaming
-    url: "www.youtube.com"
+    url: "spacex.com"
   });
 });
 
